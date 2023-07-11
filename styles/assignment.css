@@ -1,0 +1,26 @@
+.banner-img{
+    width: 300px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    border: 2px solid white;
+    background-color: #f1dbe0;
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.paragraph{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn{
+    padding: 10px 15px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
