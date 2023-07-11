@@ -1,5 +1,6 @@
 .banner-img{
     width: 300px;
+    
 }
 .banner-container{
     display: flex;
@@ -85,20 +86,86 @@
     justify-content: center;
     align-items: end;
 }
-
-.section-02{
+.middle-img{
+    margin: 100px auto 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #d9f3c1 ;
+    padding: 80px 0px 80px 0px;
+    width: 70%;
+}
+.grp-png{
+    margin-left: 0.02%;
+}
+.grp-img{
+    margin-right: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grp-frs{
+    margin-right: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grp-free{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section-hot-deal{
     display: flex;
     justify-content: space-around;
     margin-top: 100px;
     border: 2px solid white;
     background-color: #f1dbe0;
     text-align: center;
+    padding: 60px 0px 60px 0px;
 }
-.flower-02{
+.hot-deal{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hot-deal-img{
+    margin-top: 10px;
+}
+.flowers{
     display: flex;
     height: 300px;
     justify-content: center;
 }
 .flower-asset-01{
     margin-right: 15px;
+}
+.shop{
+    color:#E55473 ;
+}
+#background-img{
+    background-image: url("/Flower-Asset/Rectangle\ 9.png");
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+}
+.latest-title{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;  
+}
+.email{
+    justify-content: center;
+}
+#shopflower{
+    align-items: center;
+}
+#footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+    background-color: black;
+    padding: 100px 0px 100px 0px;
+
+}
+.ending{
+    font-size: smaller;
+    text-align: center;
 }
